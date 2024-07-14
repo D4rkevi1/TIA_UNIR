@@ -3,7 +3,7 @@
     {"alumno":"Pedro","nota":6,"ranking":40},
     {"alumno":"Juan","nota":8,"ranking":20},
     {"alumno":"Manuel","nota":7,"ranking":30},
-    {"alumno":"Murillo","nota":2,"ranking":400},
+    {"alumno":"Murillo","nota":2,"ranking":1000},
     {"alumno":"Lopez","nota":5,"ranking":50},
     {"alumno":"Omar","nota":1,"ranking":500},
     {"alumno":"Mora","nota":4,"ranking":60},
